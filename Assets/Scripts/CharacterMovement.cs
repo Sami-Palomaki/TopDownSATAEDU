@@ -75,9 +75,7 @@ public class CharacterMovement : MonoBehaviour
         Vector3 movement = new Vector3(horizontal, 0 , vertical);
 
         rb.AddForce(movement * speed / Time.deltaTime);
-
-        anim.SetFloat("Forward", vertical);
-        anim.SetFloat("Turn", horizontal);
+        
     }
 
     void Move(Vector3 move)
