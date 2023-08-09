@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638269930700000000
-    m_Hash: 2362511596
+<<<<<<< Updated upstream
+      ticks: 638271350840000000
+    m_Hash: 2748323826
+=======
+      ticks: 638271352280000000
+    m_Hash: 3109854698
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: E:/UNITY PELIT/TopDownShooter/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638269931000000000
-    m_Hash: 1613653515
+<<<<<<< Updated upstream
+      ticks: 638271350840000000
+    m_Hash: 2520203705
+=======
+      ticks: 638271352280000000
+    m_Hash: 246620830
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
